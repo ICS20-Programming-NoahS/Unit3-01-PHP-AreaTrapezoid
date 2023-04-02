@@ -1,0 +1,43 @@
+/* Created by: MariaG
+ * Modified by: Noah Smith
+ * Created on: March 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit3-01-PHP-AreaTrapezoid
+*/
+
+form {
+  background-color: red;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: orange;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: orange;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: orange;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
